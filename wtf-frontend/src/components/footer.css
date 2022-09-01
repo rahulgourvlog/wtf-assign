@@ -1,0 +1,139 @@
+
+
+.footerwtf{
+    width: 100vw;
+    height: 70vh;
+display: flex;
+color: white;
+background-color: black;
+
+}
+
+.subfooter{
+    width: 80%;
+display: flex;
+margin: auto;
+
+justify-content: space-around;
+}
+.subfooter>div{
+height: 400px;
+width: 300px;
+font-size: 24px;
+margin: auto;
+
+}
+
+.subfooter>div>ul>li{
+    margin: 10px 0px 15px 0px;
+    list-style: none;
+   
+}
+
+.logocontrol>div{
+    display: flex;
+}
+.logocontrol>img{
+ width: 150px;
+ height: 150px;
+}
+
+
+.fa-brandsh{
+    z-index: 3;
+font-size: 25px;
+color: red;
+background: white;
+width: 50px;
+border-radius: 50%;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+ 
+}
+
+.fa-brandsh:hover{
+    color: white;
+    background-color: red;
+    }
+
+.fa-brands1{
+    z-index: 3;
+    font-size: 25px;
+    color: blue;
+    background: white;
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-brands1:hover{
+    color: white;
+    background-color: blue;
+    }
+
+    .fa-brands2{
+        z-index: 3;
+        font-size: 25px;
+        color: blue;
+        background: white;
+        width: 50px;
+        border-radius: 50%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fa-brands2:hover{
+        color: white;
+        background-color: blue;
+        }
+
+
+
+.logoin{
+background-color: red;
+font-size: 20px;
+}
+
+.fa-solid{
+    margin-right: 15px;
+}
+
+
+
+li{
+color: #b2b2b2;
+}
+
+.fontawesomelast>ul>div{
+    list-style: none;
+    display: flex;
+    color: #b2b2b2;
+
+}
+.fontawesomelast>ul>li:nth-child(2){
+  width: 250px;
+  border: 1px solid red;
+  text-align: center;
+}
+
+.wighthigh{
+    font-weight: 700;
+    color: white;
+    margin: 30px;
+    height: 50px;
+
+    
+}
+i{
+    color: white;
+}
